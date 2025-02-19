@@ -1,0 +1,27 @@
+_repo: Enemies-b-A-tale-for-little-lads-and-lasses_75364
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurrell, Marian Isabel
+    alias: Hurrell, Marian I.
+    gutenberg_agent_id: '57580'
+    url: http://www.gutenberg.org/2009/agents/57580
+description: ''
+gutenberg_issued: '2025-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75364'
+language: en
+pgterms:marc905: 20250106075630hurrell
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bS. W. Partridge and Co., $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Enemies : $b A tale for little lads and lasses'
+url: http://www.gutenberg.org/ebooks/75364
